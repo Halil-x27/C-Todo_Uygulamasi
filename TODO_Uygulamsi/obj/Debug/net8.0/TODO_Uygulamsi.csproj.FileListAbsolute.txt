@@ -1,0 +1,14 @@
+C:\Users\halil\OneDrive\Masaüstü\Pratikler\TODO_Uygulamsi\bin\Debug\net8.0\TODO_Uygulamsi.exe
+C:\Users\halil\OneDrive\Masaüstü\Pratikler\TODO_Uygulamsi\bin\Debug\net8.0\TODO_Uygulamsi.deps.json
+C:\Users\halil\OneDrive\Masaüstü\Pratikler\TODO_Uygulamsi\bin\Debug\net8.0\TODO_Uygulamsi.runtimeconfig.json
+C:\Users\halil\OneDrive\Masaüstü\Pratikler\TODO_Uygulamsi\bin\Debug\net8.0\TODO_Uygulamsi.dll
+C:\Users\halil\OneDrive\Masaüstü\Pratikler\TODO_Uygulamsi\bin\Debug\net8.0\TODO_Uygulamsi.pdb
+C:\Users\halil\OneDrive\Masaüstü\Pratikler\TODO_Uygulamsi\obj\Debug\net8.0\TODO_Uygulamsi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\halil\OneDrive\Masaüstü\Pratikler\TODO_Uygulamsi\obj\Debug\net8.0\TODO_Uygulamsi.AssemblyInfoInputs.cache
+C:\Users\halil\OneDrive\Masaüstü\Pratikler\TODO_Uygulamsi\obj\Debug\net8.0\TODO_Uygulamsi.AssemblyInfo.cs
+C:\Users\halil\OneDrive\Masaüstü\Pratikler\TODO_Uygulamsi\obj\Debug\net8.0\TODO_Uygulamsi.csproj.CoreCompileInputs.cache
+C:\Users\halil\OneDrive\Masaüstü\Pratikler\TODO_Uygulamsi\obj\Debug\net8.0\TODO_Uygulamsi.dll
+C:\Users\halil\OneDrive\Masaüstü\Pratikler\TODO_Uygulamsi\obj\Debug\net8.0\refint\TODO_Uygulamsi.dll
+C:\Users\halil\OneDrive\Masaüstü\Pratikler\TODO_Uygulamsi\obj\Debug\net8.0\TODO_Uygulamsi.pdb
+C:\Users\halil\OneDrive\Masaüstü\Pratikler\TODO_Uygulamsi\obj\Debug\net8.0\TODO_Uygulamsi.genruntimeconfig.cache
+C:\Users\halil\OneDrive\Masaüstü\Pratikler\TODO_Uygulamsi\obj\Debug\net8.0\ref\TODO_Uygulamsi.dll
